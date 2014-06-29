@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>寂寞先生</title>
+ <title>Kpaxer</title>
  <link href="http://enml.github.io/blog/" rel="self"/>
  <link href="http://enml.github.io/blog"/>
- <updated>2014-06-29T03:11:36+08:00</updated>
+ <updated>2014-06-29T05:33:13+08:00</updated>
  <id>http://enml.github.io/blog</id>
  <author>
-   <name>陈佳伟</name>
+   <name>肖强</name>
    <email>blah@email.test</email>
  </author>
 
